@@ -1,2 +1,3 @@
 duoduo is learning git.
-add a line.
+add a line.'
+check add.
